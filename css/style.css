@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 .body {
-  background: url(/img/restaurant.png);
+  background-image: url(https://i.ibb.co/fdHHDdY/restaurant.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
