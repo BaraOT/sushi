@@ -38,6 +38,9 @@ a {
   text-decoration: none;
   color: black;
 }
+a:hover {
+  color: white;
+}
 .flex {
   display: flex;
 }
@@ -182,7 +185,8 @@ input {
 }
 
 button:hover {
-  background-color: #f1d5bb;
+  background-color: black;
+  color: white;
 }
 .first-card button {
   width: 100%;
@@ -201,4 +205,11 @@ button:hover {
   padding-bottom: 40px;
   background-color: #f1d5bb;
   padding: 30px 30px 30px 30px;
+}
+.icon:hover {
+  background-color: #f1d5bb;
+}
+.first-icon h1:hover {
+  background-color: #f1d5bb;
+  color: black;
 }
